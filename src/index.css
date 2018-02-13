@@ -1,0 +1,32 @@
+
+#root {
+    margin-top: 20px;
+}
+
+.row {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+  .table td {
+    width: 25%;
+  }
+
+.search-bar {
+    width: 75%;
+    margin: auto;
+}
+
+.form-inline .search-bar__text-input {
+    width: 70%;
+}
+
+td,th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.google-map{
+    height: 200px;
+    width: 250px;
+}
